@@ -7,6 +7,6 @@
 * Hashing function
 * Encryption 
 * Decryption
-* Asimetric key
+* Asymmetric key
 
 Denis Kutnar
